@@ -1,9 +1,10 @@
 import React from 'react'
 class Square extends React.Component {
     render() {
+        console.log(this.props)
         return (
             <button className="square">
-                {/* TODO */}
+                {this.props.value}
             </button>
         );
     }

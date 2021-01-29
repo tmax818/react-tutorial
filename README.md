@@ -20,6 +20,10 @@ The following is a quote from the [React Tutorial](https://reactjs.org/tutorial/
 
 - [link](https://reactjs.org/tutorial/tutorial.html#passing-data-through-props)
 
+Congratulations! You’ve just “passed a prop” from a parent Board component to a child Square component. Passing props is how information flows in React apps, from parents to children.
+
+
+
 
 [React Tutorial]: https://reactjs.org/tutorial/tutorial.html
 
