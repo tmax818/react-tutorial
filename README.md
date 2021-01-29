@@ -1,6 +1,5 @@
 # react-tutorial
 
-
 ## Main Branch
 
 - The main branch is the starter code for the tutorial.
@@ -16,4 +15,11 @@ The following is a quote from the [React Tutorial](https://reactjs.org/tutorial/
 >
 >The `<Square />` component renders a single `<button>` and the `<Board />` component renders 9 `<Square />` components. The `<Game />` component renders a `<Board />` component with placeholder values which we’ll modify later. There are currently no interactive components.
 
+
+## Passing Data Through Props
+
+- [link](https://reactjs.org/tutorial/tutorial.html#passing-data-through-props)
+
+
 [React Tutorial]: https://reactjs.org/tutorial/tutorial.html
+
