@@ -58,6 +58,12 @@ Congratulations! You’ve just “passed a prop” from a parent Board component
 
 - The main benefit of immutability is that it helps you build pure components in React. 
 
+## Function Components
+
+- [link](https://reactjs.org/tutorial/tutorial.html#function-components)
+
+- change [Square](src/components/Square.js)
+
 
 
 
